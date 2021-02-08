@@ -202,7 +202,7 @@ module.exports = [
     postcode: "L44EL",
     latitude: "53.438711",
     longitude: "-2.966421",
-    desc: "Goodison Park is rife with history. It has been Everton Football Club’s home ground since its completion in 1892 and is one of the oldest purpose-built football stadiums in the entire world. The Grand Old Lady, as it is known to Everton fans, has hosted more top-flight games than any other stadium in England.Located less than a mile from the home stadium of Everton’s fierce city rivals, Liverpool Football Club, Goodison has hosted the maximum number of league games possible since the Premier League was introduced in 1992. The ground has hosted the FA Cup final as well as the semi-final of the 1966 World Cup between West Germany and the Soviet Union.",
+    description: "Goodison Park is rife with history. It has been Everton Football Club’s home ground since its completion in 1892 and is one of the oldest purpose-built football stadiums in the entire world. The Grand Old Lady, as it is known to Everton fans, has hosted more top-flight games than any other stadium in England.Located less than a mile from the home stadium of Everton’s fierce city rivals, Liverpool Football Club, Goodison has hosted the maximum number of league games possible since the Premier League was introduced in 1992. The ground has hosted the FA Cup final as well as the semi-final of the 1966 World Cup between West Germany and the Soviet Union.",
   },
 
   {
