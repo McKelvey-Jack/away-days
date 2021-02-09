@@ -3,17 +3,21 @@
 
 # 
 
-This is our API for the backend of our football stadium DB. It is built with node.js using an express server and psql a database. The app has been using with TDD using jest.
-Hosted backend: https://frozen-scrubland-34339.herokuapp.com/api
+This is our API for the backend of our football stadium DB. It is built with node.js using an express server and a psql database. The app has been using with TDD using jest and supertest.
+
+* Hosted backend: https://frozen-scrubland-34339.herokuapp.com/api
+* Fronend Repo: https://github.com/McKelvey-Jack/away-days-fe
 
 # Tech
 
-- SQL Postgress (pg)
+- PostgreSQL
 - Express
 - Knex
 - Node.js
+- Axios 
 - Nodemon
-- Jest 
+- Jest
+- Supertest
 
 # API Endpoints
 
